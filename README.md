@@ -33,3 +33,10 @@ git push --set-upstream origin master
 git push --set-upstream origin master
 ```
 
+## Api end point
+```
+url = "http://159.65.94.148:8003/v1/predict"
+```
+1. go to post man
+2. Body -> form_data
+3. Add key,value 
